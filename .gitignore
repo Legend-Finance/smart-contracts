@@ -1,0 +1,10 @@
+build/
+.DS_Store
+.env
+npm-debug.log
+node_modules
+coverage.json
+coverage
+ganache_db
+networks/
+migrations/
